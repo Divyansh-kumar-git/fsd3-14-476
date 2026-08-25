@@ -1,3 +1,4 @@
+//index2
 import { rm } from "fs/promises";
 import { mkdir } from "fs/promises";
 

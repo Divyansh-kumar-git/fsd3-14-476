@@ -1,3 +1,4 @@
+//index
 import {writeFile, readFile, appendFile as fsAppendFile} from 'fs/promises'
 
 // await writeFile("stud.txt", "Ravikant Singh\nRollNo:82");
