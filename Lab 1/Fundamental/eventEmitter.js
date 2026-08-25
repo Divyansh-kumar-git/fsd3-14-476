@@ -1,3 +1,4 @@
+//event emmiter
 import {EventEmitter} from 'node:events';
 
 const sayHi = (name) =>{

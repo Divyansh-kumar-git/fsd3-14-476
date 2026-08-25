@@ -1,3 +1,4 @@
+//task 2
 import { log } from "console";
 import fs from "fs/promises";
 

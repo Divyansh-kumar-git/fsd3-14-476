@@ -1,3 +1,4 @@
+//task 1
 const f1 = () => {
   console.log("f1 starts");
   f2();
