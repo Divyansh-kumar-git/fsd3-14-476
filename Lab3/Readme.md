@@ -20,6 +20,7 @@ npm init -y
 
 ### Content type => tells the browser what kind of data your server is sending so the browser knows how to interpret it.
 
+<<<<<<< HEAD
 ## Server can send data
 1. html content
 2. html files 
@@ -49,3 +50,6 @@ npm init -y
 / products/2369 (out of all contents we are searching for 2369)
 / products
 / search(route)?q=mobile(query string)
+=======
+  
+>>>>>>> 393e76c1de69155df29abee466856385abefd6b4
