@@ -24,3 +24,22 @@
 2. It must start with capital letter
 3. It should be treated as html tag 
 4. It must be closed
+
+## Object Destructure
+ const {rating,bname,price,quantity,picUrl}=props.book;
+ Does not depends on order, if property is not available then it is initialized with null
+ Any components include styles
+ 1. External CSS => create class in index.css and use in component
+ 2. Internal CSS => create property as object like 
+  const qtyStyle = {
+    fontSize:"1rem",
+    color:"blue",
+    textAlign:"center",
+    backgroundColor:"yellow",
+    padding:"10px"
+  };
+  then apply with style attribute and pass the object
+ 3. Inline CSS => in this method we use two curly brackets with style attribute all the css property must be single word for example text-align becomes textAlign(CamelCase) 
+
+rfce = simple function
+rafce = arrow function
