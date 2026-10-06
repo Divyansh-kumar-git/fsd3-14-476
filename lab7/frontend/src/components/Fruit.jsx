@@ -6,7 +6,9 @@ const products = [
 ];
 
 const ListItem = products.map((item) => (
-<li key={item.id}>{item.title}</li>
+  <li key={item.id} style={{ color: item.isFruit ? 'red' : 'green' }}>
+    {item.title}
+  </li>
 ));
 const Fruit = () => {
   return (
@@ -16,7 +18,7 @@ const Fruit = () => {
       </ul>
     
   )
-}
+};
 
 export default Fruit;
 

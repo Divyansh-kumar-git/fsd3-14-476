@@ -46,3 +46,4 @@ rafce = arrow function
 
 
 * App.jsx should be minimum code
+* By default button in html is submit button
