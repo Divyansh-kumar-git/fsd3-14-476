@@ -43,3 +43,6 @@
 
 rfce = simple function
 rafce = arrow function
+
+
+* App.jsx should be minimum code
