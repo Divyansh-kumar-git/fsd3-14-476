@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "brand": "Apple",
+    "model": "iPhone 16",
+    "price": 799,
+    "ram": "8GB",
+    "storage": "128GB",
+    "display": "6.1-inch OLED",
+    "camera": "48MP",
+    "battery": "3561mAh"
+  },
+  {
+    "id": 2,
+    "brand": "Samsung",
+    "model": "Galaxy S25",
+    "price": 799,
+    "ram": "12GB",
+    "storage": "128GB",
+    "display": "6.2-inch AMOLED",
+    "camera": "50MP",
+    "battery": "4000mAh"
+  },
+  {
+    "id": 3,
+    "brand": "Google",
+    "model": "Pixel 9",
+    "price": 799,
+    "ram": "12GB",
+    "storage": "128GB",
+    "display": "6.3-inch OLED",
+    "camera": "50MP",
+    "battery": "4700mAh"
+  },
+  {
+    "id": 4,
+    "brand": "OnePlus",
+    "model": "OnePlus 13",
+    "price": 899,
+    "ram": "12GB",
+    "storage": "256GB",
+    "display": "6.82-inch AMOLED",
+    "camera": "50MP",
+    "battery": "6000mAh"
+  },
+  {
+    "id": 5,
+    "brand": "Xiaomi",
+    "model": "Xiaomi 15",
+    "price": 749,
+    "ram": "12GB",
+    "storage": "256GB",
+    "display": "6.36-inch AMOLED",
+    "camera": "50MP",
+    "battery": "5240mAh"
+  },
+  {
+    "id": 6,
+    "brand": "Nothing",
+    "model": "Phone 3",
+    "price": 699,
+    "ram": "12GB",
+    "storage": "256GB",
+    "display": "6.7-inch OLED",
+    "camera": "50MP",
+    "battery": "5150mAh"
+  },
+  {
+    "id": 7,
+    "brand": "Motorola",
+    "model": "Edge 60 Pro",
+    "price": 599,
+    "ram": "12GB",
+    "storage": "256GB",
+    "display": "6.7-inch pOLED",
+    "camera": "50MP",
+    "battery": "6000mAh"
+  },
+  {
+    "id": 8,
+    "brand": "Sony",
+    "model": "Xperia 1 VI",
+    "price": 1299,
+    "ram": "12GB",
+    "storage": "256GB",
+    "display": "6.5-inch OLED",
+    "camera": "48MP",
+    "battery": "5000mAh"
+  },
+  {
+    "id": 9,
+    "brand": "Oppo",
+    "model": "Find X8",
+    "price": 699,
+    "ram": "12GB",
+    "storage": "256GB",
+    "display": "6.59-inch AMOLED",
+    "camera": "50MP",
+    "battery": "5630mAh"
+  },
+  {
+    "id": 10,
+    "brand": "Vivo",
+    "model": "X200",
+    "price": 799,
+    "ram": "12GB",
+    "storage": "256GB",
+    "display": "6.67-inch AMOLED",
+    "camera": "50MP",
+    "battery": "5800mAh"
+  }
+]

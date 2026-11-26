@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "name": "mobile",
+    "price": 2000,
+    "qty": 1
+  },
+  {
+    "id": null,
+    "price": null,
+    "qty": null
+  },
+  {
+    "id": 12,
+    "name": "divyansh",
+    "price": 4,
+    "qty": null
+  },
+  {
+    "id": 4,
+    "name": "Raj",
+    "price": 5,
+    "qty": null
+  },
+  {
+    "id": 8,
+    "name": "dishank",
+    "price": 79,
+    "qty": 5
+  }
+]
